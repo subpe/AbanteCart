@@ -6,11 +6,11 @@
   </definition>
   <definition>
     <key>text_title</key>
-    <value><![CDATA[Pay with Bhartipay]]></value>
+    <value><![CDATA[Pay with SubPe]]></value>
   </definition>
   <definition>
     <key>text_response</key>
-    <value><![CDATA[Response from Bhartipay:]]></value>
+    <value><![CDATA[Response from SubPe:]]></value>
   </definition>
   <definition>
     <key>text_success</key>
